@@ -10,4 +10,4 @@ temporary@gmail.com
 
 1. UI
 2. Logic for buttons
-3. Testing video, link is here - 
+3. Testing video, link is here - http:youtube.com
